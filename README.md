@@ -72,7 +72,7 @@ The conclusion should be solely based on her words in the transcript.
 Customer Strategy or Positioning
 
 ---
-# GRS Report — From Insight to Experimentation
+# Part 2: GRS Report — From Insight to Experimentation
 
 ---
 
