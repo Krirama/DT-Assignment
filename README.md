@@ -106,7 +106,6 @@ Customers are sorted into three categories:
 
 ### 🤖 Prompting Loop (for AI Simulation)
 
-```plaintext
 Act as a customer segmentation expert. Here's a dataset of recent customers (with amount paid, time to convert, product purchased, and feedback). Help me identify the top 3 customer segments based on ease of conversion and long-term value. Then suggest one tailored growth idea for each segment.
 
 # 🚀 Execution & Delivery — Growth Readiness Scorecard
@@ -136,10 +135,7 @@ A 30-minute Friday meeting designed to maintain clarity and unblock progress acr
 -  What got completed or moved forward?  
 -  What’s the next most important move?
 
----
-
 ## 🤖 Prompting Loop (AI Simulation)
-
 Use the following prompt to co-design the ritual with AI before going live:
 Create a 30-minute weekly OKR review meeting agenda for a cross-functional product team. Include prompts to check progress, identify blockers, measure momentum, and celebrate wins.
 
